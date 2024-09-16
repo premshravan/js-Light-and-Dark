@@ -8,9 +8,9 @@ const textBox = document.getElementById("text-box");
 
 // image color
 function imageMode(color){
-    image1.src = `/imgs/One_${color}.svg`;
-    image2.src = `/imgs/Two_${color}.svg`;
-    image3.src = `/imgs/Three_${color}.svg`;
+    image1.src = `imgs/One_${color}.svg`;
+    image2.src = `imgs/Two_${color}.svg`;
+    image3.src = `imgs/Three_${color}.svg`;
 
 }
 
